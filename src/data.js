@@ -83,17 +83,19 @@ export const experience = [
   },
   {
     role: 'Software Developer Intern',
-    org: 'Greenfield Systems',
-    period: '2023',
+    org: 'Vhuthelu Resources',
+    period: '2026',
     points: [
-      'Delivered a reporting dashboard used daily by the operations team.',
-      'Optimised slow PostgreSQL queries, cutting page load time by half.',
+      'Software Development and IT support diagnosing issues on systems.',
+      ' Hosting and maintaining websites and mobile applications.',
+      'Managing and working with databases',
+      'Penetration testing and security auditing of applications and systems.',
     ],
   },
   {
-    role: 'BSc Information Technology',
-    org: 'University of Johannesburg',
-    period: '2020 to 2023',
-    points: ['Software development major. Final-year project: a queue management web app.'],
+    role: 'diploma Computer Science',
+    org: 'Tshwane University of Technology',
+    period: '2021 to 2026',
+    points: ['Software development major. Final-year project: private Hospital patient management system.'],
   },
 ]
