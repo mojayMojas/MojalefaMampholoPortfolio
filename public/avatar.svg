@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Profile picture placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2ef27a"/>
+      <stop offset="1" stop-color="#1a2420"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8eeea"/>
+      <stop offset="1" stop-color="#a9b8b0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.2" r="0.8">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <rect width="400" height="400" fill="url(#glow)"/>
+  <circle cx="200" cy="150" r="64" fill="url(#body)"/>
+  <path d="M64 400c0-80 60-136 136-136s136 56 136 136z" fill="url(#body)"/>
+  <path d="M138 128c4-44 36-66 66-62 34 4 58 30 56 66-16-24-44-38-78-34-18 2-34 14-44 30z" fill="#0b1a12" opacity="0.85"/>
+</svg>
