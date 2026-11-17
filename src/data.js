@@ -23,9 +23,9 @@ location: 'Johannesburg, South Africa',
 }
 
 export const stats = [
-  { value: '3+', label: 'years building web apps' },
-  { value: '5', label: 'projects shipped' },
-  { value: '98', label: 'Lighthouse accessibility score on the clinic app' },
+  { value: '2+', label: 'years building web apps projects' },
+  { value: '5+', label: 'projects shipped' },
+  { value: '100+', label: 'github commits' },
 ]
 
 export const skills = [
@@ -38,36 +38,36 @@ export const skills = [
 
 export const projects = [
   {
-    title: 'ClinicFlow',
+    title: 'IHVS_INTELLIGENT',
     summary:
-      'Appointment booking and live queue system for medical practices. Patients pick from open time slots and follow their place in line.',
-    tags: ['React', 'Node.js', 'PostgreSQL', 'Prisma'],
+      'Appointment booking and live queue system for medical practices for patients with Medical Aid. Patients pick from open time slots and follow their place in line.',
+    tags: ['HTML', 'Java', 'MySQL', 'Prisma'],
     highlight: 'Cut front-desk check-in time by about a third in pilot testing.',
     href: 'https://github.com/',
   },
   {
-    title: 'LedgerLite',
+    title: 'Mojela Farming',
     summary:
-      'Personal budgeting app with category budgets, recurring bills and a monthly summary that explains where the money went.',
+      ' Online Market for farm products,connecting local farmers with customers and enforcing food Security.',
     tags: ['React', 'Spring Boot', 'PostgreSQL'],
     highlight: 'Secure sign-in with JWT and role-based access.',
-    href: 'https://github.com/',
+    href: 'https://mojelafarming.vercel.app/',
   },
   {
-    title: 'StockKeep',
+    title: 'Witbank King Kota',
     summary:
-      'Inventory tracker for small shops with low-stock alerts, barcode lookup and CSV import and export.',
-    tags: ['React', 'Java', 'Spring Boot', 'Docker'],
+      'Local fastfood app  created to reduce long queue ,where regular and new customer can order fast food on remote area and track the preparation of the food on their phone.',
+    tags: ['React', 'typescript', 'firebase'],
     highlight: 'Runs from a single docker compose command.',
-    href: 'https://github.com/',
+    href: 'https://witbank-king-kota-pos.vercel.app/',
   },
   {
-    title: 'CampusConnect',
+    title: 'influncer connect',
     summary:
-      'Student events board where societies post events and students RSVP, with reminders and a calendar view.',
-    tags: ['React', 'Express', 'MongoDB'],
-    highlight: 'Used by 6 student societies during the pilot term.',
-    href: 'https://github.com/',
+      'Marketing plartform where it allows social media influencers sign up and promote clients product and services.',
+    tags: ['React', 'springboot', 'PostgreSQL'],
+    highlight: 'Secure Marketing Agent.',
+    href: 'under_maintenance',
   },
 ]
 

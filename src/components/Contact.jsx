@@ -19,8 +19,7 @@ export default function Contact() {
       <div className="glass glass-strong contact">
         <h2 id="contact-title">Let's work together</h2>
         <p className="lead">
-          I am looking for a team where I can keep growing as a full-stack developer. Send me a
-          message and I will respond with immidiate effect.
+          I am Open to Join a team where I can keep in the Tech environment.Reach out to me and I will respond with immidiate effect.
         </p>
         <div className="hero-actions">
           <a className="btn" href={`mailto:${profile.email}`}>

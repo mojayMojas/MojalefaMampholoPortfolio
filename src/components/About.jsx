@@ -8,21 +8,19 @@ export default function About() {
         <div className="about-grid">
           <div className="glass pad">
             <p>
-              I am a full-stack developer who likes the whole path of a feature: the screen a person
-              touches, the API behind it and the table where the data lands.
+              I am a full-stack developer who is keen about the latest trends of tech: where innovations are unlimited.
             </p>
             <p>
-              My recent work is a clinic platform with online booking, a reception queue and a patient
-              status page. I enjoy the small details that make software feel trustworthy, such as
-              honest error messages, sensible empty states and flows that never lose someone's work.
+              My recent work is a local Farming marketing system, a Secure and Scalable System that allows the local farmers to sell
+              and market their farm products to Customers with ease, integrated online payment system to make the processes smooth and easy to trace,and enforcing food Security.
             </p>
           </div>
           <div className="glass pad">
             <h3>What I focus on</h3>
             <ul className="plain-list">
-              <li>Readable, tested code</li>
-              <li>Accessible interfaces that work on any screen</li>
-              <li>APIs that fail clearly and recover well</li>
+              <li>Easy to use, Scalable, tested Systems</li>
+              <li>Accessible user interfaces that work on any screen</li>
+              <li>APIs that are easy to debug</li>
             </ul>
           </div>
         </div>
