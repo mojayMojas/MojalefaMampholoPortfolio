@@ -5,7 +5,7 @@ const base = import.meta.env.BASE_URL
 export const profile = {
   name: 'Mojalefa Mampholo',
   role: 'Full-stack developer',
- headline: 'I develop modern, scalable software solutions that drive real-world impact.',
+ headline: 'I develop and host modern, scalable and Secure software system that drive real-world impact.',
 intro:
   'I develop high-quality web applications using React, Java and Spring Boot, building responsive user interfaces, robust APIs and well-structured database solutions. I focus on clean architecture, application performance, security and delivering reliable software that meets business needs.',
 location: 'Johannesburg, South Africa',
@@ -17,21 +17,22 @@ location: 'Johannesburg, South Africa',
   resume: `${base}Mojalefa_Resume.pdf`,
   resumeFileName: 'Mojalefa_Resume.pdf',
   links: [
-    { label: 'GitHub', href: 'https://github.com/' },
+    { label: 'GitHub', href: 'https://github.com/mojayMojas/' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/' },
   ],
 }
 
 export const stats = [
   { value: '3+', label: 'years building web apps' },
-  { value: '12', label: 'projects shipped' },
+  { value: '5', label: 'projects shipped' },
   { value: '98', label: 'Lighthouse accessibility score on the clinic app' },
 ]
 
 export const skills = [
-  { group: 'Frontend', items: ['React', 'TypeScript', 'Vite', 'CSS', 'Accessibility'] },
+  { group: 'Frontend', items: ['React', 'TypeScript', 'Vite','HTML', 'CSS', 'Accessibility'] },
   { group: 'Backend', items: ['Java', 'Spring Boot', 'Node.js', 'Express', 'REST APIs'] },
-  { group: 'Data', items: ['PostgreSQL', 'Prisma', 'JPA / Hibernate', 'Redis'] },
+  {group: 'Cloud and Deployment',items:['Netlify','Render','Vercel','Railway','Azure','Supabase','Neon','AWS RDS']},
+  { group: 'Data', items: ['PostgreSQL','MySQL', 'Prisma', 'JPA / Hibernate', 'Redis'] },
   { group: 'Tooling', items: ['Git and GitHub', 'Docker', 'Jest and Vitest', 'Playwright', 'CI/CD'] },
 ]
 
