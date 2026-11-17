@@ -72,19 +72,19 @@ export const projects = [
 
 export const experience = [
   {
-    role: 'Junior Full-stack Developer',
-    org: 'Brightpath Digital',
-    period: '2024 to present',
+    role: 'Student Mentor',
+    org: 'Tshwane University of Technology',
+    period: 'feb 2025 to December 2025',
     points: [
-      'Build patient and staff screens in React against Spring Boot services.',
-      'Wrote integration tests that caught double-booking bugs before release.',
-      'Moved legacy forms to accessible, validated components.',
+      'Offer academic and professional personal guidance to students.',
+      'Offer tutorial sessions for underperforming students.',
+      'provide technical monitoring to Lab Computers - During Open Lab Study Hours.',
     ],
   },
   {
     role: 'Software Developer Intern',
     org: 'Vhuthelu Resources',
-    period: '2026',
+    period: 'July 2026 - December 2026',
     points: [
       'Software Development and IT support diagnosing issues on systems.',
       ' Hosting and maintaining websites and mobile applications.',
