@@ -25,7 +25,7 @@ export default function App() {
       </main>
       <footer className="footer">
         <p>
-          &copy; {new Date().getFullYear()} {profile.name}. Demo content, built with React.
+          &copy; {new Date().getFullYear()} {profile.name} built with React.
         </p>
       </footer>
     </>
